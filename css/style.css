@@ -1,0 +1,17 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color:blue;
+}
+.home {
+    background-color:green;
+    color: white;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.guarderia{
+    background-color: blue;
+}
